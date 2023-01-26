@@ -1,2 +1,7 @@
 *.o
+*.png
+*.dSYM
+check.c
+exam
 .DS_Store
+.idea
